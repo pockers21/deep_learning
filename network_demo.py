@@ -1,7 +1,7 @@
 #coding:utf-8
 import random
 import math
-// 根据https://www.cnblogs.com/charlotte77/p/5629865.html 改写而来
+# 根据https://www.cnblogs.com/charlotte77/p/5629865.html 改写而来
 
 #
 #   参数解释：
